@@ -1,0 +1,8 @@
+987 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+1076 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\pyziom\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+1079 [main] INFO  FillFormBasicTest - Chrome Driver setup
+1095 [main] INFO  FillFormBasicTest - Chrome Driver arguments
+3379 [main] INFO  FillFormBasicTest - Chrome Driver initialized properly
+5730 [main] INFO  FillFormBasicTest - Subject selected
+5884 [main] INFO  FillFormBasicTest - email submitted
+6013 [main] INFO  FillFormBasicTest - order submitted

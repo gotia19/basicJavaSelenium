@@ -1,0 +1,7 @@
+1452 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+1477 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\pyziom\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+1477 [main] INFO  base.BaseTest - Chrome Driver setup
+1485 [main] INFO  base.BaseTest - Chrome Driver arguments
+3169 [main] INFO  base.BaseTest - Chrome Driver initialized properly
+4484 [main] INFO  base.BaseTest - Driver initialized properly
+5160 [main] INFO  base.BaseTest - Driver closed
